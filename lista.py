@@ -23,3 +23,6 @@ print(minha_lista)
 print(minha_lista[1])
 minha_lista[1] = "abacate"
 print(minha_lista)
+
+minha_lista.append(input('Digite uma fruta: '))
+print(minha_lista)
