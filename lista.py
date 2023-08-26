@@ -20,3 +20,6 @@ minha_lista.sort(reverse=True)
 
 print(minha_lista)
 
+print(minha_lista[1])
+minha_lista[1] = "abacate"
+print(minha_lista)
